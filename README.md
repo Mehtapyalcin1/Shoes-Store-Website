@@ -1,8 +1,9 @@
 # Shoes Store Website
 This repository contains the code for a responsive website for a fictional Nike shoe store. The website features a variety of sections including home, products, about, reviews, services, and a login form. Users can explore the collection of Nike shoes, read customer reviews, learn about the company, and access customer services.
 
-# GIF
-![AnimationShoes](https://github.com/SakirParlakbileker/ShoesProject/assets/147662891/b85d52ec-3fcb-4a0b-8e38-c1ed04128ddc)
+# GIF:
+
+![EkranKayd2024-05-0621 07 24-ezgif com-video-to-gif-converter](https://github.com/Mehtapyalcin1/Shoes-Store-Website/assets/148896925/e21910ad-17e9-41a6-94dd-6ec17f6ba2c8)
 
 
 # Technologies Used:
