@@ -14,7 +14,3 @@ Employed for styling and layout purposes, including responsive design for variou
 Imported for custom typography.
 # CDNJS: 
 Linked for external resource management.
-
-
-Feel free to explore the codebase and contribute to enhancing the website's features and design.
-# Shoes-Store-Website
